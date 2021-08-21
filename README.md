@@ -28,9 +28,10 @@ Always working on a lot of different projects as my interest vary greatly. Reall
 
 ### Social Media
 
-<!--FIX-->
 [<img align="left" alt="kyleldavis.com" width="22px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/website.png">][website]
 [<img align="left" alt="LinkedIn | Kyle L. Davis" width="22px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/linkedin.png">][linkedin]
+
+<br>
 
 ### Languages and Tools
 
