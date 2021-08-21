@@ -51,11 +51,21 @@ Always working on a lot of different projects as my interest vary greatly. Reall
 <img align="left" alt="GitHub" width="26px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/github_dark.png">
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 
+
 <br><br>
+
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AceofSpades5757&count_private=true&theme=blue-green&show_icons=true)
+
+</details>
 
 
 <!-- Definitions -->
