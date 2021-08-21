@@ -19,21 +19,21 @@ I like to create a lot of Vim plugins, particulary with Python. Also enjoy makin
 
 Always working on a lot of different projects as my interest vary greatly. Really enjoy learning new things and discussing all sorts of different technologies.
 
-### Interests
+# Interests
 
 * Vim and Python
 * Command Line Tools
 * Web Scraping
 * Data Science/Engineering
 
-### Social Media
+# Social Media
 
 [<img align="left" alt="kyleldavis.com" width="22px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/website.png">][website]
 [<img align="left" alt="LinkedIn | Kyle L. Davis" width="27px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/linkedin.png">][linkedin]
 
 <br>
 
-### Languages and Tools
+# Languages and Tools
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
@@ -61,7 +61,7 @@ Always working on a lot of different projects as my interest vary greatly. Reall
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-005571?style=for-the-badge&logo=appveyor&logo=data:image/png;base64,)
 
-#### Python Libraries
+## Python Libraries
 
 ![Click](https://img.shields.io/badge/Click-005571?style=for-the-badge&logo=appveyor&logo=data:image/png;base64,)
 
@@ -71,12 +71,12 @@ Always working on a lot of different projects as my interest vary greatly. Reall
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-#### Cloud
+## Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-#### Microsoft
+## Microsoft
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
@@ -87,14 +87,14 @@ Always working on a lot of different projects as my interest vary greatly. Reall
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 
-#### OS
+## OS
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-### Learning
+# Learning
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
