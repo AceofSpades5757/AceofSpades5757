@@ -61,17 +61,20 @@ Always working on a lot of different projects as my interests vary greatly. Real
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-005571?style=for-the-badge&logo=appveyor&logo=data:image/png;base64,)
+![SSH](https://img.shields.io/badge/SSH-005571?style=for-the-badge)
 
 ## Python Libraries
 
-![Click](https://img.shields.io/badge/Click-005571?style=for-the-badge&logo=appveyor&logo=data:image/png;base64,)
+![Click](https://img.shields.io/badge/Click-005571?style=for-the-badge)
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+![Jinja2](https://img.shields.io/badge/Jinja2-005571?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-005571?style=for-the-badge)
 
 ## Cloud
 
