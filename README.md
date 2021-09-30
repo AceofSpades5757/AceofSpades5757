@@ -61,26 +61,26 @@ Always working on a lot of different projects as my interests vary greatly. Real
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-005571?style=for-the-badge)
+![SSH](https://img.shields.io/badge/SSH-790483?style=for-the-badge)
 
 ## Python Libraries
 
-![Click](https://img.shields.io/badge/Click-005571?style=for-the-badge)
+![Click](https://img.shields.io/badge/Click-955442?style=for-the-badge)
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-932019?style=for-the-badge&logo=fastapi)
 
-![Jinja2](https://img.shields.io/badge/Jinja2-005571?style=for-the-badge)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-005571?style=for-the-badge)
+![Jinja2](https://img.shields.io/badge/Jinja2-295640?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-474838?style=for-the-badge)
 
-![Requests](https://img.shields.io/badge/Requests-005571?style=for-the-badge)
-![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-%2300599C.svg?style=for-the-badge&logo=bs4&logoColor=white)
-![Scrapy](https://img.shields.io/badge/-Scrapy-1f425f.svg?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEcAAABHCAMAAABibqotAAABa1BMVEVXpxwAaDgMazsNazx4TysZbz98Ui5+VzZ2WUAlckKCWDNiY2UydUWJXjhnaGqGYkQ+eEmLY0CPZD1xbGlKfEyWakGPblGccEZjglOfc0mIe25vhVajdkuYeV9+f4GmeU6kelGCg4R8iVmpfFCEhYaFh4iIjFyghGyuhFuMjY6Vj2CNjpCQkZOhkmOqjnOpj3mVlpiclY6Xl5mtlma5lXGbnJ26mWqcnp+hoqPGnG2/nXykpaenqKnKona6ppTNqH/JrZLDsaHRr4i2trfPtZ3UtZK6vL3LvK/Yu5vAwcLUvqjCxMXbwaTZxrLUx7zJy8zfx63fzr3jzrbR09Td0srU1tfV1tbm1L/k1sjX2dna29zq2sjd3t/l3dfg4ODq3tPf4eHt4NHi5OTk5eXl5ufv5t7x5tvo6eru6eTq6uvr7Oz07OTu7+/07+nx8fL48+309PT29PL19fX29/f69/T7+fb5+vr8/Pz///92v63IAAAAAXRSTlMAQObYZgAAA11JREFUWMPVmOtf0zAUhpfBUHDIRNDpwEur8zovTIsHnMVhuU4Zqzhxgg5logUmyFj+fNPSjaZL0wT9wvsx7Z7f+2bpyUkikVMkoPVPEN2wpZ8Q5fwoX6xauCWrWszLoiBHfJTr2K96WZchkVeNGmarZoiCeBQJEkCujPkq58JBxEwdh6luhICI4yIWUZGbjTysYDFVOCAJDBckg3FAQZgSllGJDQKYw3KaY4HIl9CQ5DR0BgighmVV6+RIpdpZXtgMSAZQF6V8mVBVdWTWWdh+jug6xvjgjapOPVPVC611fTI7OwShHiyr6uAawxBAQTDTXdVVz5YzUKBAAFUhzNsWRe0fPRqp0hxdaGqmVHXzo0253n9pzx3UKU5BdGom7D/rcs+dFoYEk4zVnpqR/oF3x8PeYAANgalZWHAiDXa/2vN+HF6OLjI1Dme4+/EW/cgzQWBwIc3f24+OIg33jK75nxoeTuBiPtz98XnFNM2nN+zp7Rt9zyrVIQXscHtj1Wzpqnqlb2CWX85YnD/fP5leLZ498zqsLHZwmr9WTZ8WL+5hSc7hhtmp8RdYjsOkmOb5dTnO9goTM3lTYNtQPDX1q8m284GzayguJ+lZh02mnyf3glepAUmXgwCOh3cZmJlz+8EcANRaiFk47gMZyZY4qbAF2fZ3oYCndepMdm2a11S1pycSGaI2L3+y22P8zXmozemiCxCdbJyLIeWnq81BaapjoZJNjoV0L2kU8QTLY3ayEAzOe2IRQxrdJbSTPZgO6xQ05OUk6ZLYSvZwPqTekkVIcaI+Q06ypVvroY2LFvVybEN0rSfJZp7vh5V/nbZjG8rSRai58nI+dC8qQZa2Q0BxX0P27adIOxb3YSIIpSAn1yA2cpBCfg4BZSAvA2rkIdOJIZyYJtX5zoEWY3AIqFeDgqijRgG0XhbGBQlGI6GCMC5ItwQwls7BOKBM+HHQrl2Q4WAIB0XT5ETIt2SR02A6ijgcG4QSGuleg7vgOulQtQTiYlxLCjmiFdieLEIBJRpGcS3FbJJe9KOson0NoMSQAOYIhGIpkg5yRqlSqzVwo1arlAxy2gYt5VCQ0E2A8yZKKFnffUtWSSBxShtEXMWTqftHSiXjsdawxE0JCpbs1c1/gTBRp+kq7S8cXyumFMo8RgAAAABJRU5ErkJggg==)
+![Requests](https://img.shields.io/badge/Requests-311371?style=for-the-badge)
+![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-622354?style=for-the-badge&logo=bs4&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-902244?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEcAAABHCAMAAABibqotAAABa1BMVEVXpxwAaDgMazsNazx4TysZbz98Ui5+VzZ2WUAlckKCWDNiY2UydUWJXjhnaGqGYkQ+eEmLY0CPZD1xbGlKfEyWakGPblGccEZjglOfc0mIe25vhVajdkuYeV9+f4GmeU6kelGCg4R8iVmpfFCEhYaFh4iIjFyghGyuhFuMjY6Vj2CNjpCQkZOhkmOqjnOpj3mVlpiclY6Xl5mtlma5lXGbnJ26mWqcnp+hoqPGnG2/nXykpaenqKnKona6ppTNqH/JrZLDsaHRr4i2trfPtZ3UtZK6vL3LvK/Yu5vAwcLUvqjCxMXbwaTZxrLUx7zJy8zfx63fzr3jzrbR09Td0srU1tfV1tbm1L/k1sjX2dna29zq2sjd3t/l3dfg4ODq3tPf4eHt4NHi5OTk5eXl5ufv5t7x5tvo6eru6eTq6uvr7Oz07OTu7+/07+nx8fL48+309PT29PL19fX29/f69/T7+fb5+vr8/Pz///92v63IAAAAAXRSTlMAQObYZgAAA11JREFUWMPVmOtf0zAUhpfBUHDIRNDpwEur8zovTIsHnMVhuU4Zqzhxgg5logUmyFj+fNPSjaZL0wT9wvsx7Z7f+2bpyUkikVMkoPVPEN2wpZ8Q5fwoX6xauCWrWszLoiBHfJTr2K96WZchkVeNGmarZoiCeBQJEkCujPkq58JBxEwdh6luhICI4yIWUZGbjTysYDFVOCAJDBckg3FAQZgSllGJDQKYw3KaY4HIl9CQ5DR0BgighmVV6+RIpdpZXtgMSAZQF6V8mVBVdWTWWdh+jug6xvjgjapOPVPVC611fTI7OwShHiyr6uAawxBAQTDTXdVVz5YzUKBAAFUhzNsWRe0fPRqp0hxdaGqmVHXzo0253n9pzx3UKU5BdGom7D/rcs+dFoYEk4zVnpqR/oF3x8PeYAANgalZWHAiDXa/2vN+HF6OLjI1Dme4+/EW/cgzQWBwIc3f24+OIg33jK75nxoeTuBiPtz98XnFNM2nN+zp7Rt9zyrVIQXscHtj1Wzpqnqlb2CWX85YnD/fP5leLZ498zqsLHZwmr9WTZ8WL+5hSc7hhtmp8RdYjsOkmOb5dTnO9goTM3lTYNtQPDX1q8m284GzayguJ+lZh02mnyf3glepAUmXgwCOh3cZmJlz+8EcANRaiFk47gMZyZY4qbAF2fZ3oYCndepMdm2a11S1pycSGaI2L3+y22P8zXmozemiCxCdbJyLIeWnq81BaapjoZJNjoV0L2kU8QTLY3ayEAzOe2IRQxrdJbSTPZgO6xQ05OUk6ZLYSvZwPqTekkVIcaI+Q06ypVvroY2LFvVybEN0rSfJZp7vh5V/nbZjG8rSRai58nI+dC8qQZa2Q0BxX0P27adIOxb3YSIIpSAn1yA2cpBCfg4BZSAvA2rkIdOJIZyYJtX5zoEWY3AIqFeDgqijRgG0XhbGBQlGI6GCMC5ItwQwls7BOKBM+HHQrl2Q4WAIB0XT5ETIt2SR02A6ijgcG4QSGuleg7vgOulQtQTiYlxLCjmiFdieLEIBJRpGcS3FbJJe9KOson0NoMSQAOYIhGIpkg5yRqlSqzVwo1arlAxy2gYt5VCQ0E2A8yZKKFnffUtWSSBxShtEXMWTqftHSiXjsdawxE0JCpbs1c1/gTBRp+kq7S8cXyumFMo8RgAAAABJRU5ErkJggg==)
 
-![Asyncio](https://img.shields.io/badge/Asyncio-005571?style=for-the-badge)
+![Asyncio](https://img.shields.io/badge/Asyncio-805645?style=for-the-badge)
 
 ## Cloud
 
