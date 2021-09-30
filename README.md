@@ -24,6 +24,7 @@ Always working on a lot of different projects as my interests vary greatly. Real
 * Python and Vim
 * Command Line Tools
 * Web Scraping
+* Web APIs (REST)
 * Data Science/Engineering
 
 # Social Media
@@ -51,17 +52,20 @@ Always working on a lot of different projects as my interests vary greatly. Real
 ![Neovim](https://img.shields.io/badge/-Neovim-1f425f.svg?style=for-the-badge&logo=image%2Fpng%3Bbase64%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)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-790483?style=for-the-badge)
+
+## Web
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ## Python Libraries
 
