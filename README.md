@@ -127,12 +127,9 @@ As a personal note, family means everything to me. Everything else, including my
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+# :zap: GitHub Stats
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AceofSpades5757&count_private=true&theme=blue-green&show_icons=true)
-
-</details>
+![AceofSpades5757's GitHub stats](https://github-readme-stats.vercel.app/api?username=AceofSpades5757&count_private=true&theme=blue-green&show_icons=true)
 
 <details>
  
