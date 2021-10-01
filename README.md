@@ -74,9 +74,12 @@ As a personal note, family means everything to me. Everything else, including my
 ## Python Libraries
 
 ![Click](https://img.shields.io/badge/Click-955442?style=for-the-badge)
+[![pytest](https://img.shields.io/badge/pytest-902244?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/en/stable/)
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-FCC624?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-932019?style=for-the-badge&logo=fastapi)
@@ -131,6 +134,41 @@ As a personal note, family means everything to me. Everything else, including my
 
 </details>
 
+<details>
+ 
+ <summary>Side-Note: Built-In Python</summary>
+ 
+ * argparse
+ * shlex
+ * subprocess
+ * os, sys, *archive, 
+ 
+ * ctypes
+ 
+ * typing
+ * unittest
+ * setuptools
+ * timeit
+ 
+ * sqlite3
+ * enum
+ * re (regex)
+ 
+ * asyncio (as mentioned above)
+ * threading
+ * multiprocessing
+ * [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)
+ 
+ * datetime - datetime, timedelata, timezone, zoneinfo, calendar
+ * math - math, numbers, decimals, fractions, random
+ * itertools, functools, operator
+ * pickle
+ * io
+ * Internet Data Handling - email, json, base64
+ * markup - html, xml
+ * Internet Protocols and Support - mostly through higher level libraries, like requests
+ 
+</details>
 
 <!-- Definitions -->
 [website]: https://kyleldavis.com
