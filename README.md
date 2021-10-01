@@ -15,9 +15,13 @@
 
 I thoroughly enjoy Python, Vim, and the command line.
 
-I like to create a lot of Vim plugins, particulary with Python. Also enjoy making any and all kinds of scripts to ease the daily grind, and minimize its effects.
+I like to create a lot of Vim plugins, particularly with Python. With these, grew a large subset of scripts that were originally made in Vim (best interface ever), but were eventually moved to command line utilities (my interface of choice, with some color), or to a few web servers for consistency and reliability. A lot of them are run through WSL since Windows seems to be a necessity, but generally work well in tandem with Task Scheduler and Cron, or Python's sched for little things.
 
-Always working on a lot of different projects as my interests vary greatly. Really enjoy learning new things and discussing all sorts of different technologies.
+Also enjoy making any and all kinds of scripts to ease the daily grind, and minimize its effects. In particular, I've got a fondness for writing minor scripts to scrape websites, access their APIs, and put the date into CSV/Excel file (_everybody_ seems to love Excel as a medium). This includes all forms of "duck tape" to access things like the local Outlook application for reading and writing email, win32 API for the clipboard (_why, I ask myself_), Selenium for any difficult web-based access, and many "wild," mini API clients to get information from web-based financial software/accounts, email, and communication systems.
+
+Always working on countless different projects as my interests vary greatly. Really enjoy learning new things and discussing all sorts of different technologies. Most recently, I keep coming back to Asyncio, OAuth (and the other, more complicated, authentication methods), SQLAlchemy (my favorite ORM), the many Raspberry Pi projects sitting around the house (_weakly_ managed with Ansible), and Vue (excellent front-end for dynamic, modular information, though JS is not nearly as cool as Python).
+
+As a personal note, family means everything to me. Everything else, including my dreams, are secondary at best.
 
 # Interests
 
