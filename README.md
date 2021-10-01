@@ -112,6 +112,9 @@ Always working on a lot of different projects as my interests vary greatly. Real
 
 # Learning
 
+[![Corey Schafer](https://img.shields.io/badge/Corey%20Schafer-FF0000?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+[![anthonywritescode](https://img.shields.io/badge/anthonywritescode-6441A4?logo=twitch&style=for-the-badge)](https://www.twitch.tv/anthonywritescode)
+
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
