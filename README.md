@@ -75,6 +75,8 @@ As a personal note, family means everything to me. Everything else, including my
 
 ![Click](https://img.shields.io/badge/Click-955442?style=for-the-badge)
 [![pytest](https://img.shields.io/badge/pytest-902244?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/en/stable/)
+![Rope](https://img.shields.io/badge/Rope-729103?style=for-the-badge)
+![Blessed](https://img.shields.io/badge/Blessed-019232?style=for-the-badge)
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -151,7 +153,7 @@ As a personal note, family means everything to me. Everything else, including my
  * enum
  * re (regex)
  
- * asyncio (as mentioned above)
+ * asyncio
  * threading
  * multiprocessing
  * [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)
@@ -159,11 +161,15 @@ As a personal note, family means everything to me. Everything else, including my
  * datetime - datetime, timedelata, timezone, zoneinfo, calendar
  * math - math, numbers, decimals, fractions, random
  * itertools, functools, operator
+ 
  * pickle
  * io
+ 
+ * sched
+ 
  * Internet Data Handling - email, json, base64
  * markup - html, xml
- * Internet Protocols and Support - mostly through higher level libraries, like requests
+ * Internet Protocols and Support - mostly through higher level libraries, like requests.
  
 </details>
 
