@@ -13,6 +13,10 @@
    \_/_____________________________________________________________________________________________________________________/
 ```
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
 I thoroughly enjoy Python, Vim, Rust, and the command line.
 
 After having learned C, to supplement my knowledge and integrate with my Python skills (see my clip-util package or C extension packages), I'm learning Rust and have already begun development on my first, published, Rust package: [vii](https://crates.io/crates/vii). From all the good things I've heard, it sounds like Rust would actually be a stronger, long-term tool for data science, finance, automations, CLI, and other projects that could benefit from better reliability and performance.
@@ -24,6 +28,17 @@ Also enjoy making any and all kinds of scripts to ease the daily grind, and mini
 Always working on countless different projects as my interests vary greatly. Really enjoy learning new things and discussing all sorts of different technologies. Most recently, I keep coming back to Asyncio, OAuth (and the other, more complicated, authentication methods), SQLAlchemy (my favorite ORM), the many Raspberry Pi projects sitting around the house (_weakly_ managed with Ansible), and Vue (excellent front-end for dynamic, modular information, though JS is not nearly as cool as Python).
 
 As a personal note, family means everything to me. Everything else, including my dreams, are secondary at best.
+
+# PyPi Packages
+
+* [![vimlib](https://img.shields.io/badge/vimlib-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://pypi.org/project/vimlib/)
+* [![clip-util](https://img.shields.io/badge/clip--util-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://pypi.org/project/clip-util/)
+* [![fzflib](https://img.shields.io/badge/fzflib-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://pypi.org/project/fzflib/)
+* [![cs-sync](https://img.shields.io/badge/cs--sync-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://pypi.org/project/cs-sync/)
+
+# crates.io Packages
+
+* [![vii](https://img.shields.io/badge/vii-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://crates.io/crates/vii)
 
 # Interests
 
