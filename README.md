@@ -13,9 +13,9 @@
    \_/_____________________________________________________________________________________________________________________/
 ```
 
-I thoroughly enjoy Python, Vim, and the command line.
+I thoroughly enjoy Python, Vim, Rust, and the command line.
 
-Currently, working on bettering my understanding of systems development, particularly using C and Rust. There have been a great deal of issues that could have been resolved with a more in-depth understanding of how the underlying solutions have been implemented, or by going straight to the source (C for CPython among many other languages). This would also enable a direct connection to performance improvements, over using third-party packages and creating limited C solutions. Rust would help solve this issue for larger projects/requirements, and guarantees safety.
+After having learned C, to supplement my knowledge and integrate with my Python skills (see my clip-util package or C extension packages), I'm learning Rust and have already begun development on my first, published, Rust package: [vii](https://crates.io/crates/vii). From all the good things I've heard, it sounds like Rust would actually be a stronger, long-term tool for data science, finance, automations, CLI, and other projects that could benefit from better reliability and performance.
 
 I like to create a lot of Vim plugins, particularly with Python. With these, grew a large subset of scripts that were originally made in Vim (best interface ever), but were eventually moved to command line utilities (my interface of choice, with some color), or to a few web servers for consistency and reliability. A lot of them are run through WSL since Windows seems to be a necessity, but generally work well in tandem with Task Scheduler and Cron, or Python's `sched` for little things.
 
