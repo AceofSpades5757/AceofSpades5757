@@ -17,7 +17,7 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-I thoroughly enjoy Python, Vim, Rust, and the command line.
+I thoroughly enjoy Python, Vim, Rust, and the command line. Using my passion for these technologies, I have submitted my work to the FOSS community. I hope this work helps others as others in the community have helped me.
 
 After having learned C, to supplement my knowledge and integrate with my Python skills (see my clip-util package or C extension packages), I'm learning Rust and have already begun development on my first, published, Rust package: [vii](https://crates.io/crates/vii). From all the good things I've heard, it sounds like Rust would actually be a stronger, long-term tool for data science, finance, automations, CLI, and other projects that could benefit from better reliability and performance.
 
@@ -39,6 +39,10 @@ As a personal note, family means everything to me. Everything else, including my
 # crates.io Packages
 
 * [![vii](https://img.shields.io/badge/vii-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://crates.io/crates/vii)
+
+# Vim Packages
+
+* [![AutoHeaders](https://img.shields.io/badge/AutoHeaders-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://vimawesome.com/plugin/autoheaders)
 
 # Interests
 
