@@ -43,6 +43,7 @@ As a personal note, family means everything to me. Everything else, including my
 # Vim Packages
 
 * [![AutoHeaders](https://img.shields.io/badge/AutoHeaders-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://vimawesome.com/plugin/autoheaders)
+* [![rust-plug](https://img.shields.io/badge/rust--plug-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://vimawesome.com/plugin/rust-plug)
 
 # Interests
 
