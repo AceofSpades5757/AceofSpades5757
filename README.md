@@ -11,17 +11,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-I thoroughly enjoy Python, Vim, Rust, and the command line. Using my passion for these technologies, I have submitted my work to the FOSS community. I hope this work helps others as others in the community have helped me.
+# whoami
 
-After having learned C, to supplement my knowledge and integrate with my Python skills (see my clip-util package or C extension packages), I'm learning Rust and have already begun development on my first, published, Rust package: [vii](https://crates.io/crates/vii). From all the good things I've heard, it sounds like Rust would actually be a stronger, long-term tool for data science, finance, automations, CLI, and other projects that could benefit from better reliability and performance.
-
-I like to create a lot of Vim plugins, particularly with Python. With these, grew a large subset of scripts that were originally made in Vim (best interface ever), but were eventually moved to command line utilities (my interface of choice, with some color), or to a few web servers for consistency and reliability. A lot of them are run through WSL since Windows seems to be a necessity, but generally work well in tandem with Task Scheduler and Cron, or Python's `sched` for little things.
-
-Also enjoy making any and all kinds of scripts to ease the daily grind, and minimize its effects. In particular, I've got a fondness for writing minor scripts to scrape websites, access their APIs, and put the date into a CSV/Excel file (_everybody_ seems to love Excel as a medium). This includes all forms of "duck tape" to access things like the local Outlook application for reading and writing email, win32 API for the clipboard (_why, I ask myself_), Selenium for any difficult web-based access, and many "wild," mini API clients to get information from web-based financial software/accounts, email, and communication systems.
-
-Always working on countless different projects as my interests vary greatly. Really enjoy learning new things and discussing all sorts of different technologies. Most recently, I keep coming back to Asyncio, OAuth (and the other, more complicated, authentication methods), SQLAlchemy (my favorite ORM), the many Raspberry Pi projects sitting around the house (_weakly_ managed with Ansible), and Vue (excellent front-end for dynamic, modular information, though JS is not nearly as cool as Python).
-
-As a personal note, family means everything to me. Everything else, including my dreams, are secondary at best.
+Open-source father, Rust, and Python developer with a love for Vim. Check out my verbose bio below, or my website [![kyleldavis.com](https://github.com/AceofSpades5757/AceofSpades5757/blob/main/website.png)][website] to learn a little bit more about me!
 
 # Published Packages
 
@@ -120,6 +112,20 @@ Vim - VimAwesome
 
 </tbody>
 </table>
+
+# Bio
+
+I thoroughly enjoy Python, Vim, Rust, and the command line. Using my passion for these technologies, I have submitted my work to the FOSS community. I hope this work helps others as others in the community have helped me.
+
+After having learned C, to supplement my knowledge and integrate with my Python skills (see my clip-util package or C extension packages), I'm learning Rust and have already begun development on my first, published, Rust package: [vii](https://crates.io/crates/vii). From all the good things I've heard, it sounds like Rust would actually be a stronger, long-term tool for data science, finance, automations, CLI, and other projects that could benefit from better reliability and performance.
+
+I like to create a lot of Vim plugins, particularly with Python. With these, grew a large subset of scripts that were originally made in Vim (best interface ever), but were eventually moved to command line utilities (my interface of choice, with some color), or to a few web servers for consistency and reliability. A lot of them are run through WSL since Windows seems to be a necessity, but generally work well in tandem with Task Scheduler and Cron, or Python's `sched` for little things.
+
+Also enjoy making any and all kinds of scripts to ease the daily grind, and minimize its effects. In particular, I've got a fondness for writing minor scripts to scrape websites, access their APIs, and put the date into a CSV/Excel file (_everybody_ seems to love Excel as a medium). This includes all forms of "duck tape" to access things like the local Outlook application for reading and writing email, win32 API for the clipboard (_why, I ask myself_), Selenium for any difficult web-based access, and many "wild," mini API clients to get information from web-based financial software/accounts, email, and communication systems.
+
+Always working on countless different projects as my interests vary greatly. Really enjoy learning new things and discussing all sorts of different technologies. Most recently, I keep coming back to Asyncio, OAuth (and the other, more complicated, authentication methods), SQLAlchemy (my favorite ORM), the many Raspberry Pi projects sitting around the house (_weakly_ managed with Ansible), and Vue (excellent front-end for dynamic, modular information, though JS is not nearly as cool as Python).
+
+As a personal note, family means everything to me. Everything else, including my dreams, are secondary at best.
 
 # Interests
 
