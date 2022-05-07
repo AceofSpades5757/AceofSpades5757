@@ -4,7 +4,7 @@
 [<img align="left" alt="LinkedIn | Kyle L. Davis" width="27px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/linkedin.png">][linkedin]
 <br /><hr />
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AceofSpades5757&count_private=true&theme=blue-green&show_icons=true" alt="AceofSpades5757's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceofSpades5757&hide=makefile,Vim%20script,c,shell&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AceofSpades5757&count_private=true&theme=blue-green&show_icons=true" alt="AceofSpades5757's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceofSpades5757&hide=makefile,Vim%20script,c,shell,Vim%20Snippet&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
