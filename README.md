@@ -23,21 +23,103 @@ Always working on countless different projects as my interests vary greatly. Rea
 
 As a personal note, family means everything to me. Everything else, including my dreams, are secondary at best.
 
-# PyPi Packages
+# Published Packages
 
-* [![vimlib](https://img.shields.io/badge/vimlib-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://pypi.org/project/vimlib/)
-* [![clip-util](https://img.shields.io/badge/clip--util-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://pypi.org/project/clip-util/)
-* [![fzflib](https://img.shields.io/badge/fzflib-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://pypi.org/project/fzflib/)
-* [![cs-sync](https://img.shields.io/badge/cs--sync-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://pypi.org/project/cs-sync/)
+Each package is free and open-source software.
 
-# crates.io Packages
+<table>
 
-* [![vii](https://img.shields.io/badge/vii-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://crates.io/crates/vii)
+<thead>
+<tr>
+<th align="center">Project</th>
+<th align="left">Description</th>
+</tr>
+</thead>
 
-# Vim Packages
+<tbody>
 
-* [![AutoHeaders](https://img.shields.io/badge/AutoHeaders-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://vimawesome.com/plugin/autoheaders)
-* [![rust-plug](https://img.shields.io/badge/rust--plug-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://vimawesome.com/plugin/rust-plug)
+<tr>
+<td colspan=2 align="center">
+<a href="https://crates.io/">
+🦀 Rust - crates.io 🦀
+</a>
+</td>
+</tr>
+<tr>
+<td align="left">
+<a href="https://crates.io/crates/vii">
+<img alt="vii" src="https://img.shields.io/badge/vii-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+</a>
+</td>
+<td align="left">Bindings to Vim objects, bindings to Vim channel commands, and a way to interact with Vim using Rust.</td>
+</tr>
+
+<tr>
+<td colspan=2 align="center">
+<a href="https://pypi.org/">
+🐍 Python - PyPi 🐍
+</a>
+</td>
+</tr>
+<tr>
+<td align="left">
+<a href="https://pypi.org/project/clip-util/">
+<img alt="clip-util" src="https://img.shields.io/badge/clip--util-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</a>
+</td>
+<td align="left">Package for accessing the clipboard with Python.</td>
+</tr>
+<tr>
+<td align="left">
+<a href="https://pypi.org/project/fzflib/">
+<img alt="fzflib" src="https://img.shields.io/badge/fzflib-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</a>
+</td>
+<td align="left">Bring the incredible utility of FZF to Python.</td>
+</tr>
+<tr>
+<td align="left">
+<a href="https://pypi.org/project/vimlib/">
+<img alt="vimlib" src="https://img.shields.io/badge/vimlib-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</a>
+</td>
+<td align="left">A friendly interface for interacting with Vim using Python.</td>
+</tr>
+<tr>
+<td align="left">
+<a href="https://pypi.org/project/cs-sync/">
+<img alt="cs-sync" src="https://img.shields.io/badge/cs--sync-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</a>
+</td>
+<td align="left">A custom syncing tool.</td>
+</tr>
+
+<tr>
+<td colspan=2 align="center">
+<a href="https://vimawesome.com/">
+Vim - VimAwesome
+</a>
+</td>
+</tr>
+<tr>
+<td align="left">
+<a href="https://vimawesome.com/plugin/rust-plug">
+<img alt="rust-plug" src="https://img.shields.io/badge/rust--plug-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
+</a>
+</td>
+<td align="left">A framework for creating Vim plugins in Rust.</td>
+</tr>
+<tr>
+<td align="left">
+<a href="https://vimawesome.com/plugin/autoheaders">
+<img alt="AutoHeaders" src="https://img.shields.io/badge/AutoHeaders-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
+</a>
+</td>
+<td align="left">Vim plugin to automatically update your .vim file headers.</td>
+</tr>
+
+</tbody>
+</table>
 
 # Interests
 
