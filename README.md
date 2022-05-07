@@ -17,7 +17,7 @@ Open-source father, Rust, and Python developer with a love for Vim. Check out my
 
 # Published Packages
 
-Each package is free and open-source software.
+Each package is free and open-source software. I also have some other projects listed in my repositories and gists, such as my [vim-snippets](https://github.com/AceofSpades5757/vim-snippets).
 
 <table>
 
