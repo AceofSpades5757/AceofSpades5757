@@ -1,21 +1,11 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 
-``` txt
- ________________________________________________________________________________________________________________________
-/\                                                                                                                       \
-\_|                     _                   __ ____                  _           ____ _____ ____ _____                   |
-  |                    / \   ___ ___  ___  / _/ ___| _ __   __ _  __| | ___  ___| ___|___  | ___|___  |                  |
-  |                   / _ \ / __/ _ \/ _ \| |_\___ \| '_ \ / _` |/ _` |/ _ \/ __|___ \  / /|___ \  / /                   |
-  |                  / ___ \ (_|  __/ (_) |  _|___) | |_) | (_| | (_| |  __/\__ \___) |/ /  ___) |/ /                    |
-  |                 /_/   \_\___\___|\___/|_| |____/| .__/ \__,_|\__,_|\___||___/____//_/  |____//_/                     |
-  |                                                 |_|                                                                  |
-  |   ___________________________________________________________________________________________________________________|_
-   \_/_____________________________________________________________________________________________________________________/
-```
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AceofSpades5757&count_private=true&theme=blue-green&show_icons=true" alt="AceofSpades5757's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceofSpades5757&hide=makefile&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 I thoroughly enjoy Python, Vim, Rust, and the command line. Using my passion for these technologies, I have submitted my work to the FOSS community. I hope this work helps others as others in the community have helped me.
 
@@ -158,10 +148,6 @@ As a personal note, family means everything to me. Everything else, including my
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
-
-# :zap: GitHub Stats
-
-![AceofSpades5757's GitHub stats](https://github-readme-stats.vercel.app/api?username=AceofSpades5757&count_private=true&theme=blue-green&show_icons=true)
 
 <details>
  
