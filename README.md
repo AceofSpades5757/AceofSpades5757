@@ -129,8 +129,10 @@ As a personal note, family means everything to me. Everything else, including my
 
 # Interests
 
-* Python and Vim
+* Rust, Python, and Vim
 * Command Line Tools
+* Data Collection
+* Automations
 * Web Scraping
 * Web APIs (REST)
 * Data Science/Engineering
