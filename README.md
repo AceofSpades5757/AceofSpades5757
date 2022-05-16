@@ -85,6 +85,14 @@ Each package is free and open-source software. I also have some other projects l
 </td>
 <td align="left">A custom syncing tool.</td>
 </tr>
+ <tr>
+<td align="left">
+<a href="https://pypi.org/project/freshworks/">
+<img alt="freshworks" src="https://img.shields.io/badge/freshworks-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</a>
+</td>
+<td align="left">Python client library for interacting with Freshworks products.</td>
+</tr>
 
 <tr>
 <td colspan=2 align="center">
