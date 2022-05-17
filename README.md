@@ -4,14 +4,20 @@
 [<img align="left" alt="LinkedIn | Kyle L. Davis" width="27px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/linkedin.png">][linkedin]
 <br /><hr />
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AceofSpades5757&count_private=true&theme=blue-green&show_icons=true" alt="AceofSpades5757's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceofSpades5757&hide=makefile,Vim%20script,c,shell,Vim%20Snippet&hide_border=true" /></a> |
-| ------------- | ------------- |
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AceofSpades5757&count_private=true&theme=blue-green&show_icons=true" alt="AceofSpades5757's GitHub stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AceofSpades5757's Language Stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceofSpades5757&hide=makefile,Vim%20script,c,shell,Vim%20Snippet&hide_border=true&theme=blue-green" /></a>
+</p>
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img alt="AceofSpades5757's GitHub Streak" width="700" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AceofSpades5757&theme=blue-green" /></a>
+</p>
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-# whoami
+# About Me
 
 Open-source father, Rust, and Python developer with a love for Vim. Check out my verbose bio below, or my website [![kyleldavis.com](https://github.com/AceofSpades5757/AceofSpades5757/blob/main/website.png)][website] to learn a little bit more about me!
 
