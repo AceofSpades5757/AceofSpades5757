@@ -258,46 +258,6 @@ As a personal note, family means everything to me. Everything else, including my
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 
-<details>
- 
- <summary>Side-Note: Built-In Python</summary>
- 
- * argparse
- * shlex
- * subprocess
- * os, sys, *archive, 
- 
- * ctypes
- 
- * typing
- * unittest
- * setuptools
- * timeit
- 
- * sqlite3
- * enum
- * re (regex)
- 
- * asyncio
- * threading
- * multiprocessing
- * [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)
- 
- * datetime - datetime, timedelata, timezone, zoneinfo, calendar
- * math - math, numbers, decimals, fractions, random
- * itertools, functools, operator
- 
- * pickle
- * io
- 
- * sched
- 
- * Internet Data Handling - email, json, base64
- * markup - html, xml
- * Internet Protocols and Support - mostly through higher level libraries, like requests.
- 
-</details>
-
 <!-- Definitions -->
 [website]: https://kyleldavis.com
 [linkedin]: https://www.linkedin.com/in/kyle-l-davis/
