@@ -5,8 +5,8 @@
 <br /><hr />
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=AceofSpades5757&custom_title=GitHub%20Stats&count_private=true&theme=blue-green&show_icons=true" alt="AceofSpades5757's GitHub stats" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AceofSpades5757's Language Stats" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceofSpades5757&theme=blue-green&hide=makefile,Vim%20script,c,shell,Vim%20Snippet" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=AceofSpades5757&custom_title=GitHub%20Stats&count_private=true&theme=blue-green&show_icons=true" alt="AceofSpades5757's GitHub stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AceofSpades5757's Language Stats" height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceofSpades5757&theme=blue-green&hide=makefile,Vim%20script,c,shell,Vim%20Snippet" /></a>
 </p>
 
 <p align="center">
