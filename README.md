@@ -2,6 +2,8 @@
 
 [<img align="left" alt="kyleldavis.com" width="22px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/website.png">][website]
 [<img align="left" alt="LinkedIn | Kyle L. Davis" width="27px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/linkedin.png">][linkedin]
+[<img align="left" alt="CodinGame | AceofSpades5757" width="27px" src="https://user-images.githubusercontent.com/10341888/169454060-9deb74e1-02cf-4cb8-a132-d6569623cfdb.png">][codingame]
+
 <br /><hr />
 
 <p align="center">
@@ -262,3 +264,4 @@ As a personal note, family means everything to me. Everything else, including my
 
 [website]: https://kyleldavis.com
 [linkedin]: https://www.linkedin.com/in/kyle-l-davis/
+[codingame]: https://www.codingame.com/profile/32676d22bf9c142836a56ca73c77fa952952481
