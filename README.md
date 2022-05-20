@@ -151,13 +151,13 @@ As a personal note, family means everything to me. Everything else, including my
 
 # Interests
 
-* Rust, Python, and Vim
-* Command Line Tools
-* Data Collection
-* Automations
-* Web Scraping
-* Web APIs (REST)
-* Data Science/Engineering
+- Rust, Python, and Vim
+- Command Line Tools
+- Data Collection
+- Automations
+- Web Scraping
+- Web APIs (REST)
+- Data Science/Engineering
 
 # Languages and Tools
 
@@ -183,12 +183,12 @@ As a personal note, family means everything to me. Everything else, including my
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-790483?style=for-the-badge)
 
-## System
+# System
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-## Web
+# Web
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -199,7 +199,7 @@ As a personal note, family means everything to me. Everything else, including my
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-## Python Libraries
+# Python Libraries
 
 ![Click](https://img.shields.io/badge/Click-955442?style=for-the-badge)
 [![pytest](https://img.shields.io/badge/pytest-902244?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/en/stable/)
@@ -223,13 +223,13 @@ As a personal note, family means everything to me. Everything else, including my
 
 ![Asyncio](https://img.shields.io/badge/Asyncio-805645?style=for-the-badge)
 
-## Cloud
+# Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linode](https://img.shields.io/badge/-Linode-1f425f.svg?style=for-the-badge&logo=image%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAG4AAACECAQAAADbjdaUAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAABINJREFUeNrtncmVnDAQQIt+BOFbh1GREIZvCkOZEAlh9M1ZlA8zPe5uQKpNCxhO9jwP4qsW1QYGsF0EBN1egxrK5z6dwZH7RnUBR0V1oRkcVVL2ynBU3ZorwFEjiy4MRw2tuuDS1NiyCy1LHVh3geuGtWKMBrHMDQDrrVYZcABAAgBYii8VAQAgVFTP8fkHLAoYmziU8fUvWACvDdYGnK/8WmJtwnnJrz3YN9wyIPnJrw+sXcnpAXsCS8LJFLQ3LAYcR359YrHg0vLrGewHbu1ScvLrHYstuXdAK9adHtUCsO+FkBnQTg5L1osub3Di63+AW4ZLchfcYeHmS3LdwZ3RpVw2d8GdAW4+Jtz5XMqllhdc73Bns7pLLY96GPxPkjuX1a0kVxqvSWf1HQ/p6GA7cF+A3njOYMQZ/dh1KL7q6Y7GmozILLonv6ktGJMg0yuwqmfwnhwiiYJmGyF6vPDvcYZCYJkVGF2eRTFjFBTmrwJLAo6cmy4gGaIKot11QdtZY+Tekie/YHbfSrBNwJF/yxxeUOytK9hqlUF6U9w8DIJk8aEo2ssqtxTAtntZS0yEBpH10EhodUE07stnYXjPIF5T0lO3DGrFtEPBDF5ZsPwm51ca0mGX34hiFAZkr6GDdkxrLKcYFonp5RdftvDGuXEFNMpF+ch6kigNv4oPKBL3HEzrUdQmqxr1ZCojSeKY/Y2OusBZg6cE+/npXfgkUZfyyPHu8NscfzzgF9tQojZZleNxZHanByPRSjszzqDdKLOjtHPhuvwH89/lQnXMlDtGeQa+Lb8yE5iyTPKzcqMqp+MKTIYWxYC6S9krwOIye8fTAY7aBdFlblYCuFbPqRRc3pzb219CLfvr+MQ6NncENJNaAszVFFMK9pUx3s4os2cyfDsvWkYt/bt09cAaSg4roBkdig3P++2uddmpoc1hYbQsXO4gn4146KSOQdef859tmJPqGdlPMyVkJlBLz0BsNmcY708T9D1x30NhTub3kW1XT/nlKtdsb2nHm1294zLkc7xRcjs9XoCqX+/QHAVa2wumfLoOHAEt4sPgvTW5dAn306ZYFDKDRngjEy1TzeCByX6/ss1Jdj8kf3/qR3LrIDe9+7mGsqZmphmPY0oOBdLrBc3UwnpKL7y2aguA6YcaBTa3Jz3sFI0puWdskrK93sAU3nJPej2iKY6CLTwN2p/iaKoaik93/DE8kkmwx2S0qkDk9W2ivTzDa+SbqZaf+QBv4CWK7+uJZqh+oZML+cTzHNQ3lPa8SnOveL7vIJiKsl6t/2UAmMj/TR9jURadTrQyLzGZC0TImuVpczmU07FTNKdeAUKfnzlzaoQgwHnh4Ohwx3tZt0pRto7jN6ulD16tF3PFNmfHC7W/kij0jZvH+dQZmjK21PZ7ar8nrjwKNMoZqntb9TknxQsNDhJDysNXztDohDRFKDzphWaHf/HwK3TyH6DoQmZKHQahachmnv3at7zQPBZ1UMttywsdhNkuNrfGC11kEE4OhT+ydCib+7S9cMqPJgP39fZ6118nKjwtnKivwgAAAABJRU5ErkJggg==)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## Microsoft
+# Microsoft
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
@@ -241,7 +241,7 @@ As a personal note, family means everything to me. Everything else, including my
 ![Microsoft SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power--Automate-0078D4?style=for-the-badge&logo=microsoft&logoColor=green)
 
-## OS
+# OS
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -259,5 +259,6 @@ As a personal note, family means everything to me. Everything else, including my
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 
 <!-- Definitions -->
+
 [website]: https://kyleldavis.com
 [linkedin]: https://www.linkedin.com/in/kyle-l-davis/
