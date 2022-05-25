@@ -119,7 +119,7 @@ Vim - VimAwesome
 </tr>
 <tr>
 <td align="left">
-<a href="https://vimawesome.com/plugin/rust-plug">
+<a href="https://github.com/AceofSpades5757/rust-plug">
 <img alt="rust-plug" src="https://img.shields.io/badge/rust--plug-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
 </a>
 </td>
@@ -127,7 +127,7 @@ Vim - VimAwesome
 </tr>
 <tr>
 <td align="left">
-<a href="https://vimawesome.com/plugin/autoheaders">
+<a href="https://github.com/AceofSpades5757/vim-autoheaders">
 <img alt="AutoHeaders" src="https://img.shields.io/badge/AutoHeaders-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
 </a>
 </td>
