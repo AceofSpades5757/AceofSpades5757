@@ -235,6 +235,7 @@ From systematic analysis of emails and PDF douments, automatin daily tasks is an
 # Python Libraries
 
 ![Click](https://img.shields.io/badge/Click-955442?style=for-the-badge)
+![clap](https://img.shields.io/badge/clap-955442?style=for-the-badge)
 [![pytest](https://img.shields.io/badge/pytest-902244?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/en/stable/)
 ![Rope](https://img.shields.io/badge/Rope-729103?style=for-the-badge)
 ![Blessed](https://img.shields.io/badge/Blessed-019232?style=for-the-badge)
@@ -246,6 +247,8 @@ From systematic analysis of emails and PDF douments, automatin daily tasks is an
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-932019?style=for-the-badge&logo=fastapi)
+![Yew](https://img.shields.io/badge/Yew-902244?style=for-the-badge&logo%3Ddata%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAFiAAABYgFfJ9BTAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAdNJREFUOI2lkb9rE3EYxj/f+9XcXe+StslVbUkFA4Igbg5OFicHEUEUkWAC6uIgeFPyDzgY0EWhW0FcHNzEIZBBFwf9B0o1hpDYmLZpbY4mhss5aGPSSyvos728z/Ph+X5fgiBYDv5djyV+q1wuU6vV+Juq1SqVSmUwDwDFYhHXdWk0GgeG6/U6rutSKpXCgGw2SzKZJJfLsbHVYvV7gw/Nz3xcL/Nlp8lGa5N8Pk8qlSKdTg8AIgiCZeAWgOd5uK7LrvC54t5B0VQAet0fvHq0hK3qFAoFdF3fyz8ZNAAwTINL97O0t7Z5s/SCvt+n7/u8fvacjrfL1Qd3h8PhBuudHd5/W6W11uTlw6d4QQ8ZCUNWuZa/RzQxw+KxU5jKxKCBMkxr9zoATB1JIJkR3p0zUbsB1z/ZRBMzAHi97jCAEYAm/xknTRN7s43W8dGtybGekSsAJCI2iiQDcPH2DS6sqCx+tTh/8/KvP1I0opp+MECVZE5PzSOA2Gyc2ePzOAtzGLaFJARnphcQiBHAaB9gzpxmQlZZ2V5DQiALgROxORk7SlQz9tvDAIB4xCIesXhrxNA0jbPOiXG28BNCS0lCCHGYZXyDPWUymf8DOI5zaBjgJ9HSwKoBOFr8AAAAAElFTkSuQmCC)
+![Rocket](https://img.shields.io/badge/Yew-902244?style=for-the-badge&logo%3Ddata%3Aimage%2Fpng%3Bbase64%2C)
 
 ![Jinja2](https://img.shields.io/badge/Jinja2-295640?style=for-the-badge)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-474838?style=for-the-badge)
