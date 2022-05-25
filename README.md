@@ -172,6 +172,10 @@ I've authored several client libraries for accessing available APIs using Python
 
 ## Command Line Utilities
 
+![Click](https://img.shields.io/badge/Click-955442?style=for-the-badge)
+![Blessed](https://img.shields.io/badge/Blessed-019232?style=for-the-badge)
+![clap](https://img.shields.io/badge/clap-955442?style=for-the-badge)
+
 My tool preferences involve the terminal. I am a huge fan of using, and developing, CLI applications.
 
 For Python projects, I would highly recommend Click. It's a fantastic library with a mature community and excellent reliability.
@@ -179,6 +183,8 @@ For Python projects, I would highly recommend Click. It's a fantastic library wi
 For Rust projects, I would highly recommend clap. The interface is fantastic and offers a streamlined experience straight out of the box.
 
 ## Automation
+
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 From systematic analysis of emails and PDF douments, automatin daily tasks is an imortant part of my day to day.
 
@@ -235,10 +241,11 @@ From systematic analysis of emails and PDF douments, automatin daily tasks is an
 # Python Libraries
 
 ![Click](https://img.shields.io/badge/Click-955442?style=for-the-badge)
+![Blessed](https://img.shields.io/badge/Blessed-019232?style=for-the-badge)
 ![clap](https://img.shields.io/badge/clap-955442?style=for-the-badge)
+
 [![pytest](https://img.shields.io/badge/pytest-902244?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/en/stable/)
 ![Rope](https://img.shields.io/badge/Rope-729103?style=for-the-badge)
-![Blessed](https://img.shields.io/badge/Blessed-019232?style=for-the-badge)
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
