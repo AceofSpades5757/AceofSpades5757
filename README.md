@@ -141,8 +141,6 @@ Vim - VimAwesome
 
 I thoroughly enjoy Python, Vim, Rust, and the command line. Using my passion for these technologies, I actively contribute to the FOSS community, giving back a small piece compared to all that the community have freely given me and others like me.
 
-Using Python and Rust is a passion, with
-
 From Vim plugins to automated setup and management systems, I have a strong curiosity for learning new technology and applying that new knowledge in the real world. The most common and powerful adaptation of this has been through command line utilities and web servers for consistency and reliability. Among these
 
 I also enjoy making data pipelines to automate the collection, processing, and application of available data to accomplicsh day to day operations. This includes, access to external HTTP APIs, and putting the data into a CSV/Excel file. Items such as using the local Outlook application for reading and writing email, win32 API for the clipboard, Selenium for any difficult web-based access, and access to many other external web API to get information from web-based financial software/accounts, email, and communication systems.
