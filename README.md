@@ -2,10 +2,12 @@
 
 [<img align="left" alt="kyleldavis.com" width="22px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/website.png">][website]
 [<img align="left" alt="LinkedIn | Kyle L. Davis" width="27px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/linkedin.png">][linkedin]
+
 [<img align="left" alt="CodinGame | AceofSpades5757" width="27px" src="https://user-images.githubusercontent.com/10341888/169454060-9deb74e1-02cf-4cb8-a132-d6569623cfdb.png">][codingame]
 [<img align="left" alt="freeCodeCamp | AceofSpades5757" width="27px" src="https://user-images.githubusercontent.com/10341888/169454635-46707f7f-8ebd-4b9d-b062-f21c0f80660f.png">][freecodecamp]
 
 [<img align="left" alt="crates.io | AceofSpades5757" width="27px" src="https://user-images.githubusercontent.com/10341888/174724092-f3f8dfb2-addf-4c45-8867-252f006b50be.png">][cratesio]
+[<img align="left" alt="PyPI | AceofSpades5757" width="27px" src="https://user-images.githubusercontent.com/10341888/174725059-a2297960-f6d6-4162-9ca7-4f3d0e057528.png">][pypi]
 
 <br /><hr />
 
@@ -318,3 +320,4 @@ Data science is a valuale and important resource to identify issues with finance
 [codingame]: https://www.codingame.com/profile/32676d22bf9c142836a56ca73c77fa952952481
 [freecodecamp]: https://www.freecodecamp.org/aceofspades5757
 [cratesio]: https://crates.io/users/AceofSpades5757
+[pypi]: https://pypi.org/user/AceofSpades5757
