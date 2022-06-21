@@ -4,6 +4,9 @@
 [<img align="left" alt="LinkedIn | Kyle L. Davis" width="27px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/linkedin.png">][linkedin]
 [<img align="left" alt="CodinGame | AceofSpades5757" width="27px" src="https://user-images.githubusercontent.com/10341888/169454060-9deb74e1-02cf-4cb8-a132-d6569623cfdb.png">][codingame]
 [<img align="left" alt="freeCodeCamp | AceofSpades5757" width="27px" src="https://user-images.githubusercontent.com/10341888/169454635-46707f7f-8ebd-4b9d-b062-f21c0f80660f.png">][freecodecamp]
+
+[<img align="left" alt="crates.io | AceofSpades5757" width="27px" src="https://user-images.githubusercontent.com/10341888/174724092-f3f8dfb2-addf-4c45-8867-252f006b50be.png">][cratesio]
+
 <br /><hr />
 
 <p align="center">
@@ -314,3 +317,4 @@ Data science is a valuale and important resource to identify issues with finance
 [linkedin]: https://www.linkedin.com/in/kyle-l-davis/
 [codingame]: https://www.codingame.com/profile/32676d22bf9c142836a56ca73c77fa952952481
 [freecodecamp]: https://www.freecodecamp.org/aceofspades5757
+[cratesio]: https://crates.io/users/AceofSpades5757
