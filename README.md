@@ -1,5 +1,11 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 
+<!-- Showing support -->
+
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Starship](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
+
 [<img align="left" alt="kyleldavis.com" width="22px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/website.png">][website]
 [<img align="left" alt="LinkedIn | Kyle L. Davis" width="27px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/linkedin.png">][linkedin]
 
@@ -30,7 +36,7 @@ Open-source father, Rust, and Python developer with a love for Vim. Check out my
 
 # Published Packages
 
-Each package is free and open-source software. I also have some other projects listed in my repositories and gists, such as my [vim-snippets](https://github.com/AceofSpades5757/vim-snippets).
+Each package is free and open-source software (FOSS). There are also other projects listed in my repositories and gists, such as [vim-snippets](https://github.com/AceofSpades5757/vim-snippets).
 
 <table>
 
@@ -45,27 +51,65 @@ Each package is free and open-source software. I also have some other projects l
 
 <tr>
 <td colspan=2 align="center">
-<a href="https://crates.io/">
+<a href="https://crates.io/users/AceofSpades5757">
 🦀 Rust - crates.io 🦀
 </a>
 </td>
 </tr>
+
 <tr>
 <td align="left">
 <a href="https://crates.io/crates/vii">
 <img alt="vii" src="https://img.shields.io/badge/vii-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
 </a>
 </td>
-<td align="left">Bindings to Vim objects, bindings to Vim channel commands, and a way to interact with Vim using Rust.</td>
+<td align="left">A way to interact with Vim using Rust.</td>
+</tr>
+
+<tr>
+<td align="left">
+<a href="https://crates.io/crates/https://crates.io/crates/clipboard-win-html">
+<img alt="clipboard-win-html" src="https://img.shields.io/badge/clipboard--win--html-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+</a>
+</td>
+<td align="left">Copy HTML to Windows clipboard.</td>
+</tr>
+
+<tr>
+<td align="left">
+<a href="https://crates.io/crates/tasklib">
+<img alt="tasklib" src="https://img.shields.io/badge/tasklib-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+</a>
+</td>
+<td align="left">Library to use Taskwarrior with Rust.</td>
+</tr>
+
+<tr>
+<td align="left">
+<a href="https://crates.io/crates/valve-server-query">
+<img alt="valve-server-query" src="https://img.shields.io/badge/valve--server--query-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+</a>
+</td>
+<td align="left">Allows you to access the data provided by Valve's Server Query protocol.</td>
+</tr>
+
+<tr>
+<td align="left">
+<a href="https://github.com/AceofSpades5757/simple-milli">
+<img alt="simple-milli" src="https://img.shields.io/badge/simple--milli-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+</a>
+</td>
+<td align="left">A simple implementation using the core engine of <em>Meilisearch</em>, <code>milli</code>, to create an embedded search engine.</td>
 </tr>
 
 <tr>
 <td colspan=2 align="center">
-<a href="https://pypi.org/">
+<a href="https://pypi.org/user/AceofSpades5757/">
 🐍 Python - PyPi 🐍
 </a>
 </td>
 </tr>
+
 <tr>
 <td align="left">
 <a href="https://pypi.org/project/clip-util/">
@@ -74,6 +118,7 @@ Each package is free and open-source software. I also have some other projects l
 </td>
 <td align="left">Package for accessing the clipboard with Python.</td>
 </tr>
+
 <tr>
 <td align="left">
 <a href="https://pypi.org/project/fzflib/">
@@ -82,6 +127,7 @@ Each package is free and open-source software. I also have some other projects l
 </td>
 <td align="left">Bring the incredible utility of FZF to Python.</td>
 </tr>
+
 <tr>
 <td align="left">
 <a href="https://pypi.org/project/vimlib/">
@@ -90,6 +136,7 @@ Each package is free and open-source software. I also have some other projects l
 </td>
 <td align="left">A friendly interface for interacting with Vim using Python.</td>
 </tr>
+
 <tr>
 <td align="left">
 <a href="https://pypi.org/project/cs-sync/">
@@ -98,6 +145,7 @@ Each package is free and open-source software. I also have some other projects l
 </td>
 <td align="left">A custom syncing tool.</td>
 </tr>
+
 <tr>
 <td align="left">
 <a href="https://pypi.org/project/freshworks/">
@@ -106,6 +154,7 @@ Each package is free and open-source software. I also have some other projects l
 </td>
 <td align="left">Python client library for interacting with Freshworks products.</td>
 </tr>
+
 <tr>
 <td align="left">
 <a href="https://pypi.org/project/testlodge/">
@@ -117,11 +166,10 @@ Each package is free and open-source software. I also have some other projects l
 
 <tr>
 <td colspan=2 align="center">
-<a href="https://vimawesome.com/">
-Vim - VimAwesome
-</a>
+Vim
 </td>
 </tr>
+
 <tr>
 <td align="left">
 <a href="https://github.com/AceofSpades5757/rust-plug">
@@ -130,6 +178,7 @@ Vim - VimAwesome
 </td>
 <td align="left">A framework for creating Vim plugins in Rust.</td>
 </tr>
+
 <tr>
 <td align="left">
 <a href="https://github.com/AceofSpades5757/vim-autoheaders">
@@ -152,6 +201,8 @@ I also enjoy making data pipelines to automate the collection, processing, and a
 
 Always working on countless different projects as my interests vary greatly. Really enjoy learning new things and discussing all sorts of different technologies. Most recently, I keep coming back to Asyncio, OAuth (and the other, more complicated, authentication methods), SQLAlchemy (my favorite ORM), the many Raspberry Pi projects sitting around the house (weakly managed with Ansible), and Vue (excellent front-end for dynamic, modular information, though JS is not nearly as cool as Python).
 
+Other projects include desktop applications, web applications, system administration projects, home automation, etc. This includes contributing to the wider software community, being a proud supporter of projects such as Helix.
+
 ## Web
 
 ![Yew](https://img.shields.io/badge/Yew-902244?style=for-the-badge&logo%3Ddata%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAFiAAABYgFfJ9BTAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAdNJREFUOI2lkb9rE3EYxj/f+9XcXe+StslVbUkFA4Igbg5OFicHEUEUkWAC6uIgeFPyDzgY0EWhW0FcHNzEIZBBFwf9B0o1hpDYmLZpbY4mhss5aGPSSyvos728z/Ph+X5fgiBYDv5djyV+q1wuU6vV+Juq1SqVSmUwDwDFYhHXdWk0GgeG6/U6rutSKpXCgGw2SzKZJJfLsbHVYvV7gw/Nz3xcL/Nlp8lGa5N8Pk8qlSKdTg8AIgiCZeAWgOd5uK7LrvC54t5B0VQAet0fvHq0hK3qFAoFdF3fyz8ZNAAwTINL97O0t7Z5s/SCvt+n7/u8fvacjrfL1Qd3h8PhBuudHd5/W6W11uTlw6d4QQ8ZCUNWuZa/RzQxw+KxU5jKxKCBMkxr9zoATB1JIJkR3p0zUbsB1z/ZRBMzAHi97jCAEYAm/xknTRN7s43W8dGtybGekSsAJCI2iiQDcPH2DS6sqCx+tTh/8/KvP1I0opp+MECVZE5PzSOA2Gyc2ePzOAtzGLaFJARnphcQiBHAaB9gzpxmQlZZ2V5DQiALgROxORk7SlQz9tvDAIB4xCIesXhrxNA0jbPOiXG28BNCS0lCCHGYZXyDPWUymf8DOI5zaBjgJ9HSwKoBOFr8AAAAAElFTkSuQmCC)
@@ -164,9 +215,12 @@ Always working on countless different projects as my interests vary greatly. Rea
 ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-622354?style=for-the-badge&logo=bs4&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-902244?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEcAAABHCAMAAABibqotAAABa1BMVEVXpxwAaDgMazsNazx4TysZbz98Ui5+VzZ2WUAlckKCWDNiY2UydUWJXjhnaGqGYkQ+eEmLY0CPZD1xbGlKfEyWakGPblGccEZjglOfc0mIe25vhVajdkuYeV9+f4GmeU6kelGCg4R8iVmpfFCEhYaFh4iIjFyghGyuhFuMjY6Vj2CNjpCQkZOhkmOqjnOpj3mVlpiclY6Xl5mtlma5lXGbnJ26mWqcnp+hoqPGnG2/nXykpaenqKnKona6ppTNqH/JrZLDsaHRr4i2trfPtZ3UtZK6vL3LvK/Yu5vAwcLUvqjCxMXbwaTZxrLUx7zJy8zfx63fzr3jzrbR09Td0srU1tfV1tbm1L/k1sjX2dna29zq2sjd3t/l3dfg4ODq3tPf4eHt4NHi5OTk5eXl5ufv5t7x5tvo6eru6eTq6uvr7Oz07OTu7+/07+nx8fL48+309PT29PL19fX29/f69/T7+fb5+vr8/Pz///92v63IAAAAAXRSTlMAQObYZgAAA11JREFUWMPVmOtf0zAUhpfBUHDIRNDpwEur8zovTIsHnMVhuU4Zqzhxgg5logUmyFj+fNPSjaZL0wT9wvsx7Z7f+2bpyUkikVMkoPVPEN2wpZ8Q5fwoX6xauCWrWszLoiBHfJTr2K96WZchkVeNGmarZoiCeBQJEkCujPkq58JBxEwdh6luhICI4yIWUZGbjTysYDFVOCAJDBckg3FAQZgSllGJDQKYw3KaY4HIl9CQ5DR0BgighmVV6+RIpdpZXtgMSAZQF6V8mVBVdWTWWdh+jug6xvjgjapOPVPVC611fTI7OwShHiyr6uAawxBAQTDTXdVVz5YzUKBAAFUhzNsWRe0fPRqp0hxdaGqmVHXzo0253n9pzx3UKU5BdGom7D/rcs+dFoYEk4zVnpqR/oF3x8PeYAANgalZWHAiDXa/2vN+HF6OLjI1Dme4+/EW/cgzQWBwIc3f24+OIg33jK75nxoeTuBiPtz98XnFNM2nN+zp7Rt9zyrVIQXscHtj1Wzpqnqlb2CWX85YnD/fP5leLZ498zqsLHZwmr9WTZ8WL+5hSc7hhtmp8RdYjsOkmOb5dTnO9goTM3lTYNtQPDX1q8m284GzayguJ+lZh02mnyf3glepAUmXgwCOh3cZmJlz+8EcANRaiFk47gMZyZY4qbAF2fZ3oYCndepMdm2a11S1pycSGaI2L3+y22P8zXmozemiCxCdbJyLIeWnq81BaapjoZJNjoV0L2kU8QTLY3ayEAzOe2IRQxrdJbSTPZgO6xQ05OUk6ZLYSvZwPqTekkVIcaI+Q06ypVvroY2LFvVybEN0rSfJZp7vh5V/nbZjG8rSRai58nI+dC8qQZa2Q0BxX0P27adIOxb3YSIIpSAn1yA2cpBCfg4BZSAvA2rkIdOJIZyYJtX5zoEWY3AIqFeDgqijRgG0XhbGBQlGI6GCMC5ItwQwls7BOKBM+HHQrl2Q4WAIB0XT5ETIt2SR02A6ijgcG4QSGuleg7vgOulQtQTiYlxLCjmiFdieLEIBJRpGcS3FbJJe9KOson0NoMSQAOYIhGIpkg5yRqlSqzVwo1arlAxy2gYt5VCQ0E2A8yZKKFnffUtWSSBxShtEXMWTqftHSiXjsdawxE0JCpbs1c1/gTBRp+kq7S8cXyumFMo8RgAAAABJRU5ErkJggg==)
 
-I currently manage over 5 web-based servers.
+I currently manage over 5 web servers.
 
 - Dedicated Game Hosting
+  - Applications to view/manage these
+  - Linux
+  - Windows
 - Dedicated Web Server
 - Dedicated Web Apps Server
   - Hosts a variety of different web services.
@@ -189,16 +243,16 @@ For Rust projects, I would highly recommend clap. The interface is fantastic and
 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-From systematic analysis of emails and PDF douments, automatin daily tasks is an imortant part of my day to day.
+From systematic analysis of emails and PDF douments, automating daily tasks is an imortant part of my day to day.
 
-## Data Science
+## Data Science & Engineering
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-FCC624?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-Data science is a valuale and important resource to identify issues with finance, assets, or other accounting issues in your life and business.
+Data science is a valuale and important resource to especially with finance, assets, or other accounting issues in your life and business.
 
 # Interests
 
