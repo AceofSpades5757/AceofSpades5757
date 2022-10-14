@@ -1,13 +1,7 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 
-<!-- Showing support -->
-
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![Starship](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
-
-[<img align="left" alt="kyleldavis.com" width="22px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/website.png">][website]
-[<img align="left" alt="LinkedIn | Kyle L. Davis" width="27px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/linkedin.png">][linkedin]
+[<img align="left" alt="kyleldavis.com" width="22px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/images/website.png">][website]
+[<img align="left" alt="LinkedIn | Kyle L. Davis" width="27px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/images/linkedin.png">][linkedin]
 
 [<img align="left" alt="CodinGame | AceofSpades5757" width="27px" src="https://user-images.githubusercontent.com/10341888/169454060-9deb74e1-02cf-4cb8-a132-d6569623cfdb.png">][codingame]
 [<img align="left" alt="freeCodeCamp | AceofSpades5757" width="27px" src="https://user-images.githubusercontent.com/10341888/169454635-46707f7f-8ebd-4b9d-b062-f21c0f80660f.png">][freecodecamp]
@@ -32,7 +26,7 @@
 
 # About Me
 
-Open-source father, Rust, and Python developer with a love for Vim. Check out my verbose bio below, or my website [![kyleldavis.com](https://github.com/AceofSpades5757/AceofSpades5757/blob/main/website.png)][website] to learn a little bit more about me!
+Open-source father, Rust, and Python developer with a love for Vim. Check out my verbose bio below, or my website [![kyleldavis.com](https://github.com/AceofSpades5757/AceofSpades5757/blob/main/images/website.png)][website] to learn a little bit more about me!
 
 # Published Packages
 
