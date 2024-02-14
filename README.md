@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=AceofSpades5757&custom_title=GitHub%20Stats&count_private=true&theme=blue-green&show_icons=true" alt="AceofSpades5757's GitHub stats" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AceofSpades5757's Language Stats" height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceofSpades5757&theme=blue-green&hide=makefile,Vim%20script,c,shell,Vim%20Snippet,HTML" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AceofSpades5757's Language Stats" height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceofSpades5757&theme=blue-green&hide=makefile,Vim%20script,shell,Vim%20Snippet,HTML,Just" /></a>
 </p>
 
 <p align="center">
