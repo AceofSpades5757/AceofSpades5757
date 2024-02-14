@@ -142,11 +142,11 @@ Each package is free and open-source software (FOSS). There are also other proje
 
 <tr>
 <td align="left">
-<a href="https://pypi.org/project/freshworks/">
-<img alt="freshworks" src="https://img.shields.io/badge/freshworks-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<a href="https://pypi.org/project/pyfreshdesk/">
+<img alt="pyfreshdesk" src="https://img.shields.io/badge/pyfreshdesk-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </a>
 </td>
-<td align="left">Python client library for interacting with Freshworks products.</td>
+<td align="left">Python client library for interacting with Freshdesk.</td>
 </tr>
 
 <tr>
