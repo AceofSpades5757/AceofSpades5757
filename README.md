@@ -26,7 +26,7 @@
 
 # About Me
 
-Open-source father, Rust, and Python developer with a love for Vim. Check out my verbose bio below, or my website [![kyleldavis.com](https://github.com/AceofSpades5757/AceofSpades5757/blob/main/images/website.png)][website] to learn a little bit more about me!
+Open-source father, Rust, and Python developer with a love for Vim working on terminal, desktop, and web applications day in and day out. With today's technology, we can automate anything. Check out my bio below, or my website [![kyleldavis.com](https://github.com/AceofSpades5757/AceofSpades5757/blob/main/images/website.png)][website] to learn a little bit more about me!
 
 # Published Packages
 
