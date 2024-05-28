@@ -157,7 +157,19 @@ Always working on countless different projects as my interests vary greatly. Rea
 
 Other projects include desktop applications, web applications, system administration projects, home automation, etc. This includes contributing to the wider software community, being a proud supporter of projects such as Helix.
 
-## Web
+# TODO: Major Areas - Clearly define the different areas we want to convey to readers rather than a wall of text.
+
+* Web
+* Desktop
+* Command Line Utilities
+* Automation
+* Data Science & Engineering
+* Interests
+* Languages and Tools
+
+Each section can have a short synopsis to describe my experience with that area, or the tools listed in that area.
+
+# Web
 
 Web Frameworks
 
