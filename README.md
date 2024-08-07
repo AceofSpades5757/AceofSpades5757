@@ -23,16 +23,16 @@ Passionate and driven software engineer and project manager highly skilled in Py
 
 # Socials
 
-* [Website](website)
-* [LinkedIn](linkedin)
-* [CodinGame](codingame)
-* [freeCodeCamp](freecodecamp)
-* [Crates.io](cratesio)
-* [PyPi](pypi)
+* [Website][website]
+* [LinkedIn][linkedin]
+* [CodinGame][codingame]
+* [freeCodeCamp][freecodecamp]
+* [Crates.io][cratesio]
+* [PyPi][pypi]
 
 # Published Packages
 
-Each package is free and open-source software (FOSS). There are other projects listed in my repositories and [gists](https://gist.github.com/AceofSpades5757), such as [vim-snippets](https://github.com/AceofSpades5757/vim-snippets).
+Each package is free and open-source software (FOSS). There are other projects listed in my repositories and [gists][gists], such as [vim-snippets](https://github.com/AceofSpades5757/vim-snippets).
 
 <table>
 
@@ -363,3 +363,4 @@ Generally, I prefer to operate inside another language, namely Python to do the 
 [freecodecamp]: https://www.freecodecamp.org/aceofspades5757
 [cratesio]: https://crates.io/users/AceofSpades5757
 [pypi]: https://pypi.org/user/AceofSpades5757
+[gists]: https://gist.github.com/AceofSpades5757
