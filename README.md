@@ -32,7 +32,7 @@ Passionate and driven software engineer and project manager highly skilled in Py
 
 # Published Packages
 
-Each package is free and open-source software (FOSS). There are other projects listed in my repositories and gists, such as [vim-snippets](https://github.com/AceofSpades5757/vim-snippets).
+Each package is free and open-source software (FOSS). There are other projects listed in my repositories and [gists](https://gist.github.com/AceofSpades5757), such as [vim-snippets](https://github.com/AceofSpades5757/vim-snippets).
 
 <table>
 
