@@ -19,7 +19,16 @@
 
 # About Me
 
-Open-source father, Rust, and Python developer with a love working on terminal, desktop, and web applications along with data science projects day in and day out. Check out my bio below, or my website [![kyleldavis.com](https://github.com/AceofSpades5757/AceofSpades5757/blob/main/images/website.png)][website] to learn a little bit more about me!
+Passionate and driven software engineer and project manager highly skilled in Python and flexible in the use of programming languages. Interested in leveraging my knowledge and skills in a variety of technologies to produce efficient, scalable code. I love working on projects for terminal, desktop, and web applications along with data science projects day in and day out. Check out my bio below, or my website [kyledavis.com](website) to learn a little bit more about me!
+
+# Socials
+
+* [Website](website)
+* [LinkedIn](linkedin)
+* [CodinGame](codingame)
+* [freeCodeCamp](freecodecamp)
+* [Crates.io](cratesio)
+* [PyPi](pypi)
 
 # Published Packages
 
@@ -147,104 +156,111 @@ Each package is free and open-source software (FOSS). There are other projects l
 
 # Bio
 
-I thoroughly enjoy Python, Rust, and the command line. Using my passion for these technologies, I actively contribute to the FOSS community, giving back a small piece compared to all that the community have freely given me and others like me.
+I enjoy working on desktop, web, and command-line application using a myriad of technologies. Although my preferable languages are Python and Rust, I also work a lot with JavaScript and some other languages. Using my passion for these technologies, I actively contribute to the FOSS community, giving back a small piece compared to all that the community have freely given me and others like me.
 
 From Vim plugins to automated setup and management systems, I have a strong curiosity for learning new technology and applying that new knowledge in the real world. The most common and powerful adaptation of this has been through command line utilities and web servers for consistency and reliability. Among these
 
-I also enjoy making data pipelines to automate the collection, processing, and application of available data to accomplish day to day operations. This includes, access to external HTTP APIs, and putting the data into a CSV/Excel file. Items such as using the local Outlook application for reading and writing email, win32 API for the clipboard, Selenium for any difficult web-based access, and access to many other external web API to get information from web-based financial software/accounts, email, and communication systems.
+I also enjoy some data engineering tasks, making ETL data pipelines to automate the collection, processing, and application of available data to accomplish day to day operations. This includes, access to external HTTP APIs, and putting the data into a CSV/Excel file. Items such as using the local Outlook application for reading and writing email, win32 API for the clipboard, Selenium for any difficult web-based access, and access to many other external web API to get information from web-based financial software/accounts, email, and communication systems.
 
 Always working on countless different projects as my interests vary greatly. Really enjoy learning new things and discussing all sorts of different technologies. Most recently, I keep coming back to Asyncio, OAuth (and the other, more complicated, authentication methods), SQLAlchemy (my favorite ORM), the many Raspberry Pi projects sitting around the house (weakly managed with Ansible), and Vue (excellent front-end for dynamic, modular information, though JS is not nearly as cool as Python).
 
 Other projects include desktop applications, web applications, system administration projects, home automation, etc. This includes contributing to the wider software community, being a proud supporter of projects such as Helix.
 
-# TODO: Major Areas - Clearly define the different areas we want to convey to readers rather than a wall of text.
-
-* Web
-* Desktop
-* Command Line Utilities
-* Automation
-* Data Science & Engineering
-* Interests
-* Languages and Tools
-
-Each section can have a short synopsis to describe my experience with that area, or the tools listed in that area.
-
 # Web
-
-Web Frameworks
-
-* [Yew](https://github.com/yewstack/yew)
-* [Rocket](https://github.com/rwf2/Rocket)
-* [Flask](https://github.com/pallets/flask)
-* [FastAPI](https://github.com/tiangolo/fastapi)
-
-Web Technologies
-
-* [Requests](https://github.com/psf/requests)
-* [BeautifulSoup4](https://beautiful-soup-4.readthedocs.io/en/latest/)
-* [Scrapy](https://scrapy.org/)
 
 I currently manage over 5 web servers.
 
 - Dedicated Game Hosting
-  - Applications to view/manage these
-  - Linux
-  - Windows
+    - Applications to view/manage these
+    - Linux
+    - Windows
 - Dedicated Web Server
 - Dedicated Web Apps Server
-  - Hosts a variety of different web services.
+    - Hosts a variety of different web services.
 
-I've authored several client libraries for accessing available APIs using Python and Rust.
+I've authored several client libraries for accessing available APIs using Python and Rust, along with some lower level libraries working with network protocols such as UDP.
 
-## Command Line Utilities
+## Frameworks
 
-![Click](https://img.shields.io/badge/Click-955442?style=for-the-badge)
-![Blessed](https://img.shields.io/badge/Blessed-019232?style=for-the-badge)
-![clap](https://img.shields.io/badge/clap-955442?style=for-the-badge)
+* [Yew](https://github.com/yewstack/yew)
+* [Flask](https://github.com/pallets/flask)
+* [FastAPI](https://github.com/tiangolo/fastapi)
+* egui
+* Leptos
 
-My tool preferences involve the terminal. I am a huge fan of using, and developing, CLI applications.
+## Web Technologies
+
+* WebAssembly
+* [Requests](https://github.com/psf/requests)
+* [BeautifulSoup4](https://beautiful-soup-4.readthedocs.io/en/latest/)
+* [Scrapy](https://scrapy.org/)
+* [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+* [web-sys](https://docs.rs/web-sys/latest/web_sys/)
+* NPM
+* jQuery
+* Vue.js
+* SSH
+* Jinja2 (templating)
+
+# Terminals Libraries & Command Line Utilities
+
+* Click
+* Blessed
+* clap
+
+My tool preferences involve the terminal. I am a dedicated fan of using and developing, CLI applications.
 
 For Python projects, I would highly recommend Click. It's a fantastic library with a mature community and excellent reliability.
 
-For Rust projects, I would highly recommend clap. The interface is fantastic and offers a streamlined experience straight out of the box.
+For Rust projects, I would highly recommend `clap`. The interface is fantastic and offers a streamlined experience straight out of the box.
 
-## Automation
+# Automation
 
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+* [Ansible](https://www.ansible.com/)
+* openpyxl (Excel manipulation)
+* scrapy (Python web scraping)
 
-From systematic analysis of emails and PDF douments, automating daily tasks is an imortant part of my day to day.
+From systematic analysis of emails and PDF documents, automating daily tasks is an important part of my day to day.
 
-## Data Science & Engineering
+# Data Science & Engineering
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-FCC624?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+* Pandas
+* NumPy
+* Matplotlib
+* Plotly
+* Streamlit
+* Dash
 
-Data science is a valuale and important resource to especially with finance, assets, or other accounting issues in your life and business.
+Data science is a valuable and important resource to especially with finance, assets, or other accounting issues in your life and business.
+
+# Desktop
+
+* Tauri - Similar to Electron.js, it allows developers to create a desktop application using a web-based front-end.
+* egui
 
 # Interests
 
 - Rust and Python
 - Command Line Tools
-- Data Collection
-- Automations
-- Web Scraping
+- Data Engineering
+- Data Science and Analysis
+- Automation
 - Web APIs (REST)
-- Data Science/Engineering
+- Web Scraping
 
-# Languages and Tools
+# Database
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+* SQL
+* SQLite
+* MySQL
+* Postgres
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" alt="GitHub" width="26px" src="https://github.com/AceofSpades5757/AceofSpades5757/blob/main/images/github_dark.png">
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+## ORM (Object Relational Mapping)
 
-<br><br>
+* SQLAlchemy (Python)
+* Diesel (Rust)
 
-## Languages
+# Languages
 
 These languages are typically for web technologies, but some are system languages used for systems programs.
 
@@ -252,105 +268,92 @@ These languages are typically for web technologies, but some are system language
 * Rust
 * Bash
 * JavaScript
-* HTML/HTML5, CSS/CSS3
-* PHP
+* HTML/HTML5
+* CSS/CSS3
 * C
+* PHP
 
 * [`just`](https://github.com/casey/just)
 * Nushell
 
-### Editors and Environments
+Languages are simply tools to solve a problem or perform a task. I've found Python and Rust to be the most powerful overall, but I'll use any language necessary to get a job done well. PHP is a good example of this as I've had to work with it for a number of projects, such as occasionally for work and for some home projects like NextCloud or WordPress.
 
-* Vim
+# Tools
+
+## Editors and IDE Environments
+
+Although I still typically reach for Neovim to do most of my day-to-day work, I have been using JetBrains IDEs more and more for larger projects.
+
 * Neovim
 * Helix
 * Jupyter Notebook
 * Jupyter Lab
+* JetBrains IDEs
 
-### Database Technologies
+## Markup Languages and Technologies
 
-* SQLite
-* MySQL
-
-### Web Technologies
-
-
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-### Markup Languages and Technologies
-
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-790483?style=for-the-badge)
-
-# Web
-
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+* LaTeX
+* typst (PDF)
+* Markdown
+* reStructuredText (RST)
+* HTML
+* XML
+* JSON
+* YAML
+* TOML
+* CSV
+* Excel (XLSX)
+* PDF
+* DOCX
+* RTF
 
 # Python Libraries
 
-![Click](https://img.shields.io/badge/Click-955442?style=for-the-badge)
-![Blessed](https://img.shields.io/badge/Blessed-019232?style=for-the-badge)
-![clap](https://img.shields.io/badge/clap-955442?style=for-the-badge)
-
-[![pytest](https://img.shields.io/badge/pytest-902244?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/en/stable/)
-![Rope](https://img.shields.io/badge/Rope-729103?style=for-the-badge)
-
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-FCC624?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-932019?style=for-the-badge&logo=fastapi)
-![Yew](https://img.shields.io/badge/Yew-902244?style=for-the-badge&logo%3Ddata%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAFiAAABYgFfJ9BTAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAdNJREFUOI2lkb9rE3EYxj/f+9XcXe+StslVbUkFA4Igbg5OFicHEUEUkWAC6uIgeFPyDzgY0EWhW0FcHNzEIZBBFwf9B0o1hpDYmLZpbY4mhss5aGPSSyvos728z/Ph+X5fgiBYDv5djyV+q1wuU6vV+Juq1SqVSmUwDwDFYhHXdWk0GgeG6/U6rutSKpXCgGw2SzKZJJfLsbHVYvV7gw/Nz3xcL/Nlp8lGa5N8Pk8qlSKdTg8AIgiCZeAWgOd5uK7LrvC54t5B0VQAet0fvHq0hK3qFAoFdF3fyz8ZNAAwTINL97O0t7Z5s/SCvt+n7/u8fvacjrfL1Qd3h8PhBuudHd5/W6W11uTlw6d4QQ8ZCUNWuZa/RzQxw+KxU5jKxKCBMkxr9zoATB1JIJkR3p0zUbsB1z/ZRBMzAHi97jCAEYAm/xknTRN7s43W8dGtybGekSsAJCI2iiQDcPH2DS6sqCx+tTh/8/KvP1I0opp+MECVZE5PzSOA2Gyc2ePzOAtzGLaFJARnphcQiBHAaB9gzpxmQlZZ2V5DQiALgROxORk7SlQz9tvDAIB4xCIesXhrxNA0jbPOiXG28BNCS0lCCHGYZXyDPWUymf8DOI5zaBjgJ9HSwKoBOFr8AAAAAElFTkSuQmCC)
-![Rocket](https://img.shields.io/badge/Rocket-902244?style=for-the-badge&logo%3Ddata%3Aimage%2Fpng%3Bbase64%2C)
-
-![Jinja2](https://img.shields.io/badge/Jinja2-295640?style=for-the-badge)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-474838?style=for-the-badge)
-
-![Requests](https://img.shields.io/badge/Requests-311371?style=for-the-badge)
-![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-622354?style=for-the-badge&logo=bs4&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-902244?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEcAAABHCAMAAABibqotAAABa1BMVEVXpxwAaDgMazsNazx4TysZbz98Ui5+VzZ2WUAlckKCWDNiY2UydUWJXjhnaGqGYkQ+eEmLY0CPZD1xbGlKfEyWakGPblGccEZjglOfc0mIe25vhVajdkuYeV9+f4GmeU6kelGCg4R8iVmpfFCEhYaFh4iIjFyghGyuhFuMjY6Vj2CNjpCQkZOhkmOqjnOpj3mVlpiclY6Xl5mtlma5lXGbnJ26mWqcnp+hoqPGnG2/nXykpaenqKnKona6ppTNqH/JrZLDsaHRr4i2trfPtZ3UtZK6vL3LvK/Yu5vAwcLUvqjCxMXbwaTZxrLUx7zJy8zfx63fzr3jzrbR09Td0srU1tfV1tbm1L/k1sjX2dna29zq2sjd3t/l3dfg4ODq3tPf4eHt4NHi5OTk5eXl5ufv5t7x5tvo6eru6eTq6uvr7Oz07OTu7+/07+nx8fL48+309PT29PL19fX29/f69/T7+fb5+vr8/Pz///92v63IAAAAAXRSTlMAQObYZgAAA11JREFUWMPVmOtf0zAUhpfBUHDIRNDpwEur8zovTIsHnMVhuU4Zqzhxgg5logUmyFj+fNPSjaZL0wT9wvsx7Z7f+2bpyUkikVMkoPVPEN2wpZ8Q5fwoX6xauCWrWszLoiBHfJTr2K96WZchkVeNGmarZoiCeBQJEkCujPkq58JBxEwdh6luhICI4yIWUZGbjTysYDFVOCAJDBckg3FAQZgSllGJDQKYw3KaY4HIl9CQ5DR0BgighmVV6+RIpdpZXtgMSAZQF6V8mVBVdWTWWdh+jug6xvjgjapOPVPVC611fTI7OwShHiyr6uAawxBAQTDTXdVVz5YzUKBAAFUhzNsWRe0fPRqp0hxdaGqmVHXzo0253n9pzx3UKU5BdGom7D/rcs+dFoYEk4zVnpqR/oF3x8PeYAANgalZWHAiDXa/2vN+HF6OLjI1Dme4+/EW/cgzQWBwIc3f24+OIg33jK75nxoeTuBiPtz98XnFNM2nN+zp7Rt9zyrVIQXscHtj1Wzpqnqlb2CWX85YnD/fP5leLZ498zqsLHZwmr9WTZ8WL+5hSc7hhtmp8RdYjsOkmOb5dTnO9goTM3lTYNtQPDX1q8m284GzayguJ+lZh02mnyf3glepAUmXgwCOh3cZmJlz+8EcANRaiFk47gMZyZY4qbAF2fZ3oYCndepMdm2a11S1pycSGaI2L3+y22P8zXmozemiCxCdbJyLIeWnq81BaapjoZJNjoV0L2kU8QTLY3ayEAzOe2IRQxrdJbSTPZgO6xQ05OUk6ZLYSvZwPqTekkVIcaI+Q06ypVvroY2LFvVybEN0rSfJZp7vh5V/nbZjG8rSRai58nI+dC8qQZa2Q0BxX0P27adIOxb3YSIIpSAn1yA2cpBCfg4BZSAvA2rkIdOJIZyYJtX5zoEWY3AIqFeDgqijRgG0XhbGBQlGI6GCMC5ItwQwls7BOKBM+HHQrl2Q4WAIB0XT5ETIt2SR02A6ijgcG4QSGuleg7vgOulQtQTiYlxLCjmiFdieLEIBJRpGcS3FbJJe9KOson0NoMSQAOYIhGIpkg5yRqlSqzVwo1arlAxy2gYt5VCQ0E2A8yZKKFnffUtWSSBxShtEXMWTqftHSiXjsdawxE0JCpbs1c1/gTBRp+kq7S8cXyumFMo8RgAAAABJRU5ErkJggg==)
-
-![Asyncio](https://img.shields.io/badge/Asyncio-805645?style=for-the-badge)
+* [pytest](https://docs.pytest.org/en/stable/)
+* Rope (Python refactoring library)
+* Asyncio
 
 # Cloud
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linode](https://img.shields.io/badge/-Linode-1f425f.svg?style=for-the-badge&logo=image%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAG4AAACECAQAAADbjdaUAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAABINJREFUeNrtncmVnDAQQIt+BOFbh1GREIZvCkOZEAlh9M1ZlA8zPe5uQKpNCxhO9jwP4qsW1QYGsF0EBN1egxrK5z6dwZH7RnUBR0V1oRkcVVL2ynBU3ZorwFEjiy4MRw2tuuDS1NiyCy1LHVh3geuGtWKMBrHMDQDrrVYZcABAAgBYii8VAQAgVFTP8fkHLAoYmziU8fUvWACvDdYGnK/8WmJtwnnJrz3YN9wyIPnJrw+sXcnpAXsCS8LJFLQ3LAYcR359YrHg0vLrGewHbu1ScvLrHYstuXdAK9adHtUCsO+FkBnQTg5L1osub3Di63+AW4ZLchfcYeHmS3LdwZ3RpVw2d8GdAW4+Jtz5XMqllhdc73Bns7pLLY96GPxPkjuX1a0kVxqvSWf1HQ/p6GA7cF+A3njOYMQZ/dh1KL7q6Y7GmozILLonv6ktGJMg0yuwqmfwnhwiiYJmGyF6vPDvcYZCYJkVGF2eRTFjFBTmrwJLAo6cmy4gGaIKot11QdtZY+Tekie/YHbfSrBNwJF/yxxeUOytK9hqlUF6U9w8DIJk8aEo2ssqtxTAtntZS0yEBpH10EhodUE07stnYXjPIF5T0lO3DGrFtEPBDF5ZsPwm51ca0mGX34hiFAZkr6GDdkxrLKcYFonp5RdftvDGuXEFNMpF+ch6kigNv4oPKBL3HEzrUdQmqxr1ZCojSeKY/Y2OusBZg6cE+/npXfgkUZfyyPHu8NscfzzgF9tQojZZleNxZHanByPRSjszzqDdKLOjtHPhuvwH89/lQnXMlDtGeQa+Lb8yE5iyTPKzcqMqp+MKTIYWxYC6S9krwOIye8fTAY7aBdFlblYCuFbPqRRc3pzb219CLfvr+MQ6NncENJNaAszVFFMK9pUx3s4os2cyfDsvWkYt/bt09cAaSg4roBkdig3P++2uddmpoc1hYbQsXO4gn4146KSOQdef859tmJPqGdlPMyVkJlBLz0BsNmcY708T9D1x30NhTub3kW1XT/nlKtdsb2nHm1294zLkc7xRcjs9XoCqX+/QHAVa2wumfLoOHAEt4sPgvTW5dAn306ZYFDKDRngjEy1TzeCByX6/ss1Jdj8kf3/qR3LrIDe9+7mGsqZmphmPY0oOBdLrBc3UwnpKL7y2aguA6YcaBTa3Jz3sFI0puWdskrK93sAU3nJPej2iKY6CLTwN2p/iaKoaik93/DE8kkmwx2S0qkDk9W2ivTzDa+SbqZaf+QBv4CWK7+uJZqh+oZML+cTzHNQ3lPa8SnOveL7vIJiKsl6t/2UAmMj/TR9jURadTrQyLzGZC0TImuVpczmU07FTNKdeAUKfnzlzaoQgwHnh4Ohwx3tZt0pRto7jN6ulD16tF3PFNmfHC7W/kij0jZvH+dQZmjK21PZ7ar8nrjwKNMoZqntb9TknxQsNDhJDysNXztDohDRFKDzphWaHf/HwK3TyH6DoQmZKHQahachmnv3at7zQPBZ1UMttywsdhNkuNrfGC11kEE4OhT+ydCib+7S9cMqPJgP39fZ6118nKjwtnKivwgAAAABJRU5ErkJggg==)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+* AWS
+* Linode
+* Google Cloud
 
 # Microsoft
 
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+I've had to create a number of Power Automate flows for my professional work, and have had to use a number of Microsoft products for work and school. Generally, I still prefer a traditional language to do large scale tasks but Microsoft's built-in tools, along with its Graph API, can be very powerful and are easier to pick up with immediately.
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+* Microsoft Access
+* Microsoft SharePoint
+* Power Automate
 
-![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-![Microsoft SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power--Automate-0078D4?style=for-the-badge&logo=microsoft&logoColor=green)
+## Office
+
+I've had to learn and use advanced Excel for work and school, having to do simple Visual Basic, advanced formulas, and pivot tables. I've also had to do some more advanced data importing and exporting with Excel. With the addition of Python (insider edition), I've even had the opportunity to use Python to automate Excel tasks _inside of Excel_ itself, natively.
+
+Generally, I prefer to operate inside another language, namely Python to do the heavy lifting and then export the data to Excel for the final presentation/data sharing. Some have also asked for Word documents, but these can be more difficult as a medium for data sharing.
+
+* Microsoft Excel
+* Microsoft Word
+* Microsoft PowerPoint
 
 # OS
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+* Linux
+* Ubuntu
+* Windows (10)
+* Raspberry Pi
+* Apple (macOS) - Needed to package and distribute as the requirements called for it.
 
 # Learning
 
-[![Corey Schafer](https://img.shields.io/badge/Corey%20Schafer-FF0000?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
-[![anthonywritescode](https://img.shields.io/badge/anthonywritescode-6441A4?logo=twitch&style=for-the-badge)](https://www.twitch.tv/anthonywritescode)
+* [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+* [anthonywritescode](https://www.twitch.tv/anthonywritescode)
 
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+* FreeCodeCamp
+* Udemy
+* Codecademy
+* Duolingo
 
 <!-- Definitions -->
 
