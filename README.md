@@ -272,7 +272,6 @@ These languages are typically for web technologies, but some are system language
 * CSS/CSS3
 * C
 * PHP
-
 * [`just`](https://github.com/casey/just)
 * Nushell
 
