@@ -348,7 +348,6 @@ Generally, I prefer to operate inside another language, namely Python to do the 
 
 * [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 * [anthonywritescode](https://www.twitch.tv/anthonywritescode)
-
 * FreeCodeCamp
 * Udemy
 * Codecademy
